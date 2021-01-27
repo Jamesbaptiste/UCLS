@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <img src="" alt="Logo" width="700" height="500">
+    <img src="Assets/Screen Shot 2021-01-27 at 4.15.25 PM.png" alt="Logo" width="700" height="500">
   </a>
 <h1 align="center">UCLS</h1>
 
